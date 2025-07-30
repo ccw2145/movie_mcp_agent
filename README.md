@@ -1,6 +1,7 @@
 # Movie MCP Agent
 
 A conversational agent for movie data, leveraging Managed MCP servers for vector search and Unity Catalog functions. The agent auto-discovers tools from configured MCP endpoints and can be extended with custom tools.
+
 Code adapted from Databricks MCP Documentation: https://docs.databricks.com/aws/en/generative-ai/mcp/managed-mcp#deploy-your-agent  
 
 See `mcp_agent.py` for configuration and extension details.
